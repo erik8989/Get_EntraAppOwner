@@ -17,12 +17,7 @@ Before running the script, ensure that you have:
 - The necessary permissions: `Application.Read.All`, `Directory.Read.All`.
 
 ## Installation
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-repository/entra-app-export.git
-   cd entra-app-export
-   ```
-2. **Install Microsoft Graph PowerShell SDK** (if not already installed) following the best practices outlined in [this blog post](https://m365blog.com/set-up-microsoft-graph-powershell-best-practice-implementation/?preview_id=203&preview_nonce=f740fbcecc&preview=true&_thumbnail_id=207).
+1. **Install Microsoft Graph PowerShell SDK** (if not already installed) following the best practices outlined in [this blog post](https://m365blog.com/set-up-microsoft-graph-powershell-best-practice-implementation/?preview_id=203&preview_nonce=f740fbcecc&preview=true&_thumbnail_id=207).
 
 ## Usage
 ### Step 1: Connect to Microsoft Graph
@@ -57,4 +52,4 @@ The CSV file includes the following columns:
 This script is **open-source** and available under the **MIT License**.
 
 ## Author
-[Your Name] - Read more on [Your Blog/Website]
+Erik Hüttmeyer - Read more on m365blog.com
